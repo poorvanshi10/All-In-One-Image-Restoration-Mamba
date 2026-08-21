@@ -1,1 +1,14 @@
-
+torch>=2.0.0
+torchvision>=0.15.0
+mamba-ssm>=1.2.0
+causal-conv1d>=1.1.0
+numpy>=1.24.0
+scipy>=1.10.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+einops>=0.7.0
+timm>=0.9.0
+pyyaml>=6.0
+tqdm>=4.65.0
+scikit-image>=0.21.0
+tensorboard>=2.14.0
